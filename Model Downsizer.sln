@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2013 for Windows Desktop
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Model Downsizer", "Model Downsizer\Model Downsizer.csproj", "{B142D5A4-121F-4872-A275-1D416CBF5BB7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Console Model Downsizer", "Console Model Downsizer\Console Model Downsizer.csproj", "{DFE5584E-FB49-49FD-8E76-ADA2B8D52DD8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CMD Model Downsizer", "CMD Model Downsizer\CMD Model Downsizer.csproj", "{FF0BE62C-5DB7-4038-8065-A5E01529EA33}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B142D5A4-121F-4872-A275-1D416CBF5BB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B142D5A4-121F-4872-A275-1D416CBF5BB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B142D5A4-121F-4872-A275-1D416CBF5BB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B142D5A4-121F-4872-A275-1D416CBF5BB7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DFE5584E-FB49-49FD-8E76-ADA2B8D52DD8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFE5584E-FB49-49FD-8E76-ADA2B8D52DD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFE5584E-FB49-49FD-8E76-ADA2B8D52DD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFE5584E-FB49-49FD-8E76-ADA2B8D52DD8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF0BE62C-5DB7-4038-8065-A5E01529EA33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF0BE62C-5DB7-4038-8065-A5E01529EA33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF0BE62C-5DB7-4038-8065-A5E01529EA33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF0BE62C-5DB7-4038-8065-A5E01529EA33}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
