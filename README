@@ -1,22 +1,22 @@
 model-downsizer
 ===============
-made by: Domen Žagar, zagar.domen@gmail.com
+made by: Domen Å½agar, zagar.domen@gmail.com
 18.5.2014
 ===============
 
-Folder copy machine. Copy by preset rules. Scheduling.
+Copies folders. Uses filters for subfolders and files. Copies by preset rules. Automated daily backups.
 
-Model downsizer is a C# windows forms application used for copying complex, structured folders and files based on predefined rules. Originally created for copying Tekla Structures model folders (structural engineering software).
+Model downsizer is a C# windows forms application used for copying structured folders and files based on predefined rules. Originally created for copying Tekla Structures model folders.
 
-Rules function like sets of 'equal' or 'does not equal' filters. Folder or file names and file extensions can be used for filtering. There are some special filters with more complex functionality, which come in handy when Model Downsizer is used for copying Tekla Structures model folders.
+Rules function like sets of 'equal' or 'does not equal' filters. Folder or file names and file extensions can be used for filtering. There are some special filters with more complex functionality, for specific Tekla structures files.
 
 Rules are in the form of.txt files and can be created in application. How-to is included in rule's header.
 
 Functionality:
 
-    * copy folders based on rules,
+    * copy folders based on filters,
     
-    * create preset for quick execution of frequent copy jobs,
+    * presets for quick execution of frequent copy jobs,
     
     * create scheduled copy jobs.
     
